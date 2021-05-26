@@ -5,8 +5,8 @@
 - 👯 I’m looking to collaborate on projects involving Web Technologies ...
 - ⚡ Fun fact: I am free this weekend for a cup of coffee 🥰 ...
 
-
-<p> 😃 Connect with me ... <br>
+### 😃 Connect with me ...
+<p>
 <a href="https://www.linkedin.com/in/md-rashid-hussain-3351371bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:mdrashid.hussain.786.01@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://dev.to/m3rashid"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
@@ -15,7 +15,9 @@
 <a href="https://www.youtube.com/channel/UCeNqGjDNF0JJdWbd8jrgJdw"><img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
-<p> 👨‍💻 Technologies I know ...
+
+### 👨‍💻 Technologies I know ...
+<p>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">

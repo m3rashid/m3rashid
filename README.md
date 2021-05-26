@@ -14,5 +14,7 @@
 <a href="https://www.instagram.com/m3_rashid/"><img alt="Instagram" src="https://img.shields.io/twitter/follow/m3_rashid?label=%40m3_rashid&logo=instagram&style=social"></a>
 <a href="https://twitter.com/m3_rashid"><img alt="twitter" src="https://img.shields.io/twitter/follow/m3_rashid?label=%40m3_rashid&style=social"></a>
 
+<a href="#"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=%40m3_rashid&style=social"></a>
+
 </p>
 

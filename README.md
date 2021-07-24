@@ -6,11 +6,8 @@
 - ⚡ Fun fact: I am free this weekend for a cup of coffee 🥰 ...
 
 <br>
-<br>
 
 ## 😃 Connect with me ...
-
-<br>
 
 <p>
 <a href="https://m3rashid.github.io/">Personal Website</a>
@@ -22,10 +19,8 @@
 <a href="https://www.youtube.com/channel/UCeNqGjDNF0JJdWbd8jrgJdw"><img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 <br>
-<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-<br>
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m3rashid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m3rashid&layout=compact&langs_count=8&theme=algolia"/>

@@ -10,7 +10,7 @@
 ## 😃 Connect with me ...
 
 <p>
-<a href="https://m3rashid.github.io/" target="_blank">Personal Website</a>
+<a href="https://m3rashid.github.io/" target="_blank" style="background-color: red; color:white; padding: 5px 10px; font-size: 1.1rem; font-weight:500; border-radius: 2px">Personal Website</a>
 
 <a href="https://www.linkedin.com/in/md-rashid-hussain-3351371bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/m3rashid"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>

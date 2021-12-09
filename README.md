@@ -1,7 +1,12 @@
-### Hi there, Rashid here 👋
+### Hi there, <a href="https://m3rashid.netlify.app/">Rashid</a> here 👋
 
-- 🌱 Currently learning MERN stack Web Development...
-- 👯 Looking for projects/internships involving Web Technologies ...
+- 🧑🏿‍💻 Takes interest in 
+  - Full Stack Web Development, 
+  - Cross-platoform applications, 
+  - Web Security 
+  - ML/AI etc ...
+- 🔥 Always trying to learn new and interesting stuff 
+- 👯 Always open for projects/internships/collaborations ...
 - ⚡ Fun fact: I am free this weekend for a cup of coffee 👉👈 ...
 
 <br>
@@ -9,9 +14,7 @@
 ## 😃 Connect with me ...
 
 <p>
-<a href="https://m3rashid.github.io/" target="_blank" style="background-color: red; color:white; padding: 5px 10px; font-size: 1.1rem; font-weight:500; border-radius: 2px">Personal Website</a>
-
-<a href="https://www.linkedin.com/in/md-rashid-hussain-3351371bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/m3rashid/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/m3rashid"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="mailto:mdrashid.hussain.786.01@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://dev.to/m3rashid"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>

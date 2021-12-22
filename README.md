@@ -1,7 +1,5 @@
 ### Hi there, <a href="https://m3rashid.netlify.app/">Rashid</a> here 👋
 
-Pursuing B.Tech in Computer science and engineering at JAMIA MILLIA ISLAMIA (2020-2024)
-
 - 🧑🏿‍💻 Takes interest in 
   - Full Stack Web Development, 
   - Cross-platoform applications, 

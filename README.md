@@ -25,9 +25,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m3rashid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m3rashid&layout=compact&langs_count=8&theme=algolia"/>
 </p>
-<br>
 
-<div align="center">
-  <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div>
-<br>
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>

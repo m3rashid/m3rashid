@@ -28,6 +28,6 @@
 <br>
 
 <div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div><img src="https://drive.google.com/uc?export=view&id=1pw7UkGyaolHe3f3J5NbwEq_H5vUN9X2_" />
+  <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div>
 <br>

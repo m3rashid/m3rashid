@@ -1,5 +1,9 @@
 ### Hi there, <a href="https://m3rashid.netlify.app/">Rashid</a> here 👋
-Full Stack Web Development with Cross-platoform applications. Check out my <a href="https://cubicle.vercel.app">blogs</a>
+- Full Stack Web Developer 
+- Cross-platoform developer
+- Polyglot. 
+
+Please do check out my <a href="https://cubicle.vercel.app">blogs</a>
 <br>
 
 #### 😃 Connect with me ...

@@ -1,16 +1,8 @@
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
 ### Hi there, <a href="https://m3rashid.netlify.app/">Rashid</a> here 👋
-- 🧑🏿‍💻 Takes interest in 
-  - Full Stack Web Development, 
-  - Cross-platoform applications, 
-  - Web Security
-- 🔥 Ready for latest tech ...
-- 👯 Open for projects/internships/collabs ...
-
+Full Stack Web Development with Cross-platoform applications. Check out my <a href="https://cubicle.vercel.app">blogs</a>
 <br>
 
-### 😃 Connect with me ...
+#### 😃 Connect with me ...
 
 <p>
 <a href="https://www.linkedin.com/in/m3rashid/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -25,5 +17,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m3rashid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m3rashid&layout=compact&langs_count=8&theme=algolia"/>
 </p>
-
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>

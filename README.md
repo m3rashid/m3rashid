@@ -2,7 +2,6 @@
 <h3>Hi there, <a href="https://m3rashid.netlify.app/">Rashid</a> here 👋</h3>
   <ul>
     <li>Full Stack Web Developer</li>
-    <li>Cross-platoform developer</li>
     <li>Polyglot</li>
   </ul>
   <p>Please do check out my <a href="https://cubicle.vercel.app">blogs</a></p>

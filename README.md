@@ -4,7 +4,7 @@
     <li>Full Stack Web Developer</li>
     <li>Polyglot</li>
   </ul>
-  <p>Please do check out my <a href="https://cubicle.vercel.app">blogs</a></p>
+  <p>Check out my blogs <a href="https://cubicle.vercel.app">here</a></p>
 </p>
 <p align="right">
   <h4>😃 Connect with me ... </h4>

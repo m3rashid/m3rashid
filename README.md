@@ -1,10 +1,10 @@
 <p align="left">
-<h3>Hi there, <a href="https://m3rashid.netlify.app/">Rashid</a> here 👋</h3>
+<h3>Hi there, <a href="https://m3rashid.in/">Rashid</a> here 👋</h3>
   <ul>
     <li>Full Stack Web Developer</li>
     <li>Polyglot</li>
   </ul>
-  <p>Check out my blogs <a href="https://cubicle.vercel.app">here</a></p>
+  <!-- <p>Check out my blogs <a href="https://cubicle.vercel.app">here</a></p> -->
 </p>
 <p align="right">
   <h4>Connect with me ... </h4>

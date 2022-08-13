@@ -1,6 +1,6 @@
 
 <h3><a href="https://m3rashid.in/">MD Rashid Hussain</a></h3>
-Full Stack Developer, Algorithms, Polyglot
+Full Stack Development, Algorithms, Polyglot
 
 Checkout some writings at <a href="https://blogs.m3rashid.in">blogs.m3rashid.in</a>
 

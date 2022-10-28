@@ -8,9 +8,7 @@
 - 🧑🌱 experience in Web Development
 - Checkout some writings at <a href="https://blogs.m3rashid.in">blogs.m3rashid.in</a>
 
-<hr />
 <br />
-
 
 <h2 align="center">Programming Tech & Tools</h2>
 

@@ -3,9 +3,9 @@
 
 ## About Me
 - 🧑‍💻 specilaized in web frontend/backend developing 
-- 🧑🔭 talented in Android/iOS app developing 
-- 🧑👨‍💻 excellent communication skill
-- 🧑🌱 experience in Web Development
+- 🔭 talented in Android/iOS app developing 
+- 👨‍💻 excellent communication skill
+- 🌱 experience in Web Development
 - Checkout some writings at <a href="https://blogs.m3rashid.in">blogs.m3rashid.in</a>
 
 <br />

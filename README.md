@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m3rashid" alt="MD Rashid Hussain" /> </p>
 
 ## About Me
-- 🧑‍💻 specilaized in web frontend/backend developing 
+- 🧑‍💻 specilaized in frontend/backend development 
 - 🔭 talented in Android/iOS app developing 
 - 👨‍💻 excellent communication skill
 - 🌱 experience in Web Development

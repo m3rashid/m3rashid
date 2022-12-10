@@ -7,6 +7,7 @@
 - 🎤 excellent communication skill
 - 🌱 experience in Web Development
 - 📒 Checkout some writings at <a href="https://blogs.m3rashid.in">blogs.m3rashid.in</a>
+- Support for #TeamBlue (Go + Typescript)
 
 <br />
 

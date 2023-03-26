@@ -2,12 +2,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m3rashid" alt="MD Rashid Hussain" /> </p>
 
 ## About Me
-- 🧑‍💻 specilaized in frontend/backend development 
-- 🔭 talented in Android/iOS app development 
+- 🧑‍💻 specilaized frontend + backend + devops 
+- 🔭 Cross platform app development (android + ios + desktop) 
 - 🎤 excellent communication skill
 - 🌱 experience in Web Development
 - 📒 Checkout some writings at <a href="https://blogs.m3rashid.in">blogs.m3rashid.in</a>
-- 🧑‍💻 #TeamBlue (Go + Typescript)
+- 🧑‍💻 #TeamBlue (GoLang + Typescript)
 
 <br />
 

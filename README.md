@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m3rashid" alt="MD Rashid Hussain" /> </p>
 
 ## About Me
-- 🧑‍💻 specilaized frontend + backend + devops 
+- 🧑‍💻 frontend + backend + devops 
 - 🔭 Cross platform app development (android + ios + desktop) 
 - 🎤 excellent communication skill
 - 🌱 experience in Web Development

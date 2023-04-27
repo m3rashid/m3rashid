@@ -8,8 +8,6 @@
 - 🌱 experience in Web Development
 - 📒 Checkout some writings at <a href="https://blogs.m3rashid.in">blogs.m3rashid.in</a>
 - 🧑‍💻 #TeamBlue (GoLang + Typescript)
-
-<hr />
  
 <h2 align="center">Connect with me<h2>
  <div align="center">

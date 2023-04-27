@@ -1,5 +1,4 @@
 <h1 align="center">This is MD Rashid Hussain aka<a href="https://m3rashid.in" target="_blank">&nbsp;m3rashid</a></h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m3rashid" alt="MD Rashid Hussain" /> </p>
 
 ## About Me
 - 🧑‍💻 frontend + backend + devops 

@@ -1,13 +1,5 @@
 <h1 align="center">This is MD Rashid Hussain aka<a href="https://m3rashid.in" target="_blank">&nbsp;m3rashid</a></h1>
 
-## About Me
-- 🧑‍💻 frontend + backend + devops 
-- 🔭 Cross platform app development (android + ios + desktop) 
-- 🎤 excellent communication skill
-- 🌱 experience in Web Development
-- 📒 Checkout some writings at <a href="https://blogs.m3rashid.in">blogs.m3rashid.in</a>
-- 🧑‍💻 #TeamBlue (GoLang + Typescript)
- 
 <h2 align="center">Connect with me<h2>
  <div align="center">
   <a href="https://www.linkedin.com/in/m3rashid/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>

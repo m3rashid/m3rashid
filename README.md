@@ -1,4 +1,4 @@
-<h3 align="center">This is MD Rashid Hussain aka<a href="https://m3rashid.in" target="_blank">&nbsp;m3rashid</a></h3>
+<h2 align="center">This is MD Rashid Hussain aka<a href="https://m3rashid.in" target="_blank">&nbsp;m3rashid</a></h2>
 
  <div align="center">
   <a target='_blank' href="https://www.linkedin.com/in/m3rashid/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
